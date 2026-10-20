@@ -1,11 +1,9 @@
-# MeloNXKeys-Firmware-22.05
+Here are the keys and firmware for MeloNX version 22.50.0.
 
-Here i have the keys and firmware of MeloNX 22.50.0 version
+Unzip the keys to find the 2 files.
 
-Unzip The keys and thers the 2 files
+For the firmware, you need to place the ZIP file after the 2 keys in MeloNX.
 
-The Firmware you need to put the zip file after the 2 keys in MeloNX
+Firmware: [Mediafire Link](https://www.mediafire.com/file/dwzhlj531ixm06l/Firmware.22.5.0.zip/file) 
 
-The Firmware are: [Link Mediafire Firmware](https://www.mediafire.com/file/dwzhlj531ixm06l/Firmware.22.5.0.zip/file)
-
-For The Roms i recomend: [https://switchsrom.com/](https://switchsrom.com/)
+ROMs: I recommend https://switchsrom.com/
